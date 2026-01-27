@@ -1,10 +1,5 @@
-# 📬 Email Management
 
-This section covers the configuration and administration, for email workflows within the Microsoft 365 ecosystem
-
---- 
-
-## 👥 Shared Mailbox
+# 👥 Shared Mailbox
 
 A Shared Mailbox is a central email hub used by multiple users to read and send messages from a common address (e.g., info@company.com or support@company.com). Unlike standard mailboxes, these do not have their own username and password—users access them via their personal credentials through delegation.
 
@@ -67,9 +62,5 @@ After permissions are granted, the shared mailbox is mapped to the user's accoun
 ---
 
 <img width="1334" height="778" alt="image" src="https://github.com/user-attachments/assets/57900f77-aea1-4e0d-a83e-18c0f2e73d68" />
-
----
-
-<img width="771" height="726" alt="image" src="https://github.com/user-attachments/assets/35f0d0f4-2b76-4fb2-85e2-7d2eba5d4588" />
 
 ---
